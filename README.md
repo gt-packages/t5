@@ -3,7 +3,7 @@ Get your module up and running quickly.
 
 Find and replace all on all files (CMD+SHIFT+F):
 - Name: My Plugin
-- Package name: gabortorma/mwm-nitro-plugin-template
+- Package name: gt-packages/t5
 - Description: My new Nitro plugin
 -->
 
